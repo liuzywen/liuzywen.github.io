@@ -8,8 +8,8 @@ I am an associate professor in School of Computer Science and Technology, Anhui 
 4.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.[[paper]](https://link.springer.com/article/10.1007/s11042-018-6319-4)
 5.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.
 6.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.[[paper]](https://link.springer.com/content/pdf/10.1007/s00371-019-01659-w.pdf)
-7.	Liu, Zhengyi, et al. "Multi-level progressive parallel attention guided salient object detection for RGB-D images." The Visual Computer (2020): 1-12.
-8.	Liu, Zhengyi, and Feng Xie. "Co-saliency Detection for RGBD Images Based on Multi-constraint Superpixels Matching and Co-cellular Automata." Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, Cham, 2018.
+7.	Liu, Zhengyi, et al. "Multi-level progressive parallel attention guided salient object detection for RGB-D images." The Visual Computer (2020): 1-12.[[paper]](https://link.springer.com/content/pdf/10.1007/s00371-020-01821-9.pdf)
+8.	Liu, Zhengyi, and Feng Xie. "Co-saliency Detection for RGBD Images Based on Multi-constraint Superpixels Matching and Co-cellular Automata." Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, Cham, 2018.[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-03398-9_12)
 9.	刘政怡,徐天泽. "基于优化的极限学习机和深度层次的 RGB-D 显著检测." 电 子 与 信 息 学 报 41.9 (2019): 2224-2230.
 10.	刘政怡,段群涛,石松,赵鹏. "基于多模态特征融合监督的 RGB-D 图像显著性检测." 电子与信息学报 42.4 (2019): 997-1004.
 11.	李炜,李全龙,刘政怡. "基于加权的 K 近邻线性混合显著性目标检测." 电子与信息学报 41.10 (2019): 2442-2449.
