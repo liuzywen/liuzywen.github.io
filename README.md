@@ -1,14 +1,6 @@
 ### Zhengyi Liu 👋  
  I’m currently working on anhui university. I am an associate professor in School of Computer Science and Technology, Anhui University, China. I received my B.S., M.S., and Ph.D. from Anhui University, China in 2001,2004 and 2007 respectively. My research interests include computer vision and machine learning.
  
- ### Projects  
- 
-
-1.	Natural Science Foundation of Anhui Province, “Saliency and Co-saliency Detection Research for RGB-D images” (1908085MF182), rank 1.
-2.	Key Program of Natural Science Project of Educational Commission of Anhui Province, “Research on Key Technologies of Salient Object Detection in Images Based on Deep Learning”(KJ2019A0034), rank 1.
-3.	National Key Technology Research and Development Program of the Ministry of Science and Technology of China, “Integration and Application demonstration of Intelligent Interactive Technology in Huizhou Culture Communication”(2015BAK24B01), rank 2. 
-
-
 ### Papers  
 1.	Liu, Zhengyi, Song Shi, et al. "Salient object detection for RGB-D image by single stream recurrent convolution neural network." Neurocomputing 363 (2019): 46-57. 
 2.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.
