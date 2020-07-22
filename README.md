@@ -19,6 +19,8 @@ I am an associate professor in School of Computer Science and Technology, Anhui 
 12.	刘政怡,黄子超,张志华. “显著中心先验和显著-深度概率矫正的RGB-D显著目标检测” 电子与信息学报 39.12 (2017): 2945-2952.
 13.	吴建国,邵婷,刘政怡."融合显著深度特征的 RGB-D 图像显著目标检测." 电子与信息学报 39.9 (2017): 2148-2154.
 14. Liu, Zhengyi, et al. "Salient object detection for RGB-D images by generative adversarial network." Multimedia Tools and Applications (2020): 1-23.[[paper]](https://pan.baidu.com/s/1Gx67VArf1U6fecixGEsi7A)[password:nn7j]
+15.Adaptive-Selection-Training-Model-for-Salient-Object-Detection[underview][[Results]](https://pan.baidu.com/s/1-FisUQOqYxaXo4xhQMDsNA)[password：1mfv]
+
 
 
 
