@@ -7,7 +7,7 @@ I am an associate professor in School of Computer Science and Technology, Anhui 
 2.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://pan.baidu.com/s/1Fmhk30C_tLUm3fJJsPJHrw)[password：agsg]
 [[code]](https://github.com/liuzywen/Deep-layer-guided-network-for-salient-object-detection)
 3.	Liu, Zhengyi, Wei Zhang, and Peng Zhao. "A Cross-modal Adaptive Gated Fusion Generative Adversarial Network for RGB-D Salient Object Detection." Neurocomputing 387 (2020): 210-220.[[paper]](https://pan.baidu.com/s/1jLVw9NYREmMaVQCPpFVrXg)[password：bj3u]
-[[Results]](https://github.com/liuzywen/A-Cross-modal-Adaptive-Gated-Fusion-Generative-Adversarial-Network-for-RGB-D-Salient-Object-Detectio)
+[[Code]](https://github.com/liuzywen/A-Cross-modal-Adaptive-Gated-Fusion-Generative-Adversarial-Network-for-RGB-D-Salient-Object-Detectio)
 4.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.[[paper]](https://pan.baidu.com/s/1uZQUDx46qhZwYq_1HluDqQ)[password：dufx]
 5.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.[[paper]](https://pan.baidu.com/s/16wZQYxTJ7-Zp5y_s3qRU8A)[password:iesu] 
 6.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.[[paper]](https://pan.baidu.com/s/1QJYaLJg_9AFgUPQC_DuQEw)[password:71o9]
