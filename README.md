@@ -6,9 +6,9 @@
 Salient-object-detection-for-RGB-D-image-by-single-stream-recurrent-convolution-neural-network)
 2.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219312809)[[code]](https://github.com/liuzywen/Deep-layer-guided-network-for-salient-object-detection)
 3.	Liu, Zhengyi, Wei Zhang, and Peng Zhao. "A Cross-modal Adaptive Gated Fusion Generative Adversarial Network for RGB-D Salient Object Detection." Neurocomputing 387 (2020): 210-220.[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300904)[[Results]](https://github.com/liuzywen/A-Cross-modal-Adaptive-Gated-Fusion-Generative-Adversarial-Network-for-RGB-D-Salient-Object-Detectio)
-4.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.
+4.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.[[paper]](https://link.springer.com/article/10.1007/s11042-018-6319-4)
 5.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.
-6.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.
+6.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.[[paper]](https://link.springer.com/content/pdf/10.1007/s00371-019-01659-w.pdf)
 7.	Liu, Zhengyi, et al. "Multi-level progressive parallel attention guided salient object detection for RGB-D images." The Visual Computer (2020): 1-12.
 8.	Liu, Zhengyi, and Feng Xie. "Co-saliency Detection for RGBD Images Based on Multi-constraint Superpixels Matching and Co-cellular Automata." Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, Cham, 2018.
 9.	刘政怡,徐天泽. "基于优化的极限学习机和深度层次的 RGB-D 显著检测." 电 子 与 信 息 学 报 41.9 (2019): 2224-2230.
