@@ -1,5 +1,5 @@
 ### Zhengyi Liu 👋  
-I am an associate professor in School of Computer Science and Technology, Anhui University, China. I received my B.S., M.S., and Ph.D. from Anhui University, China in 2001,2004 and 2007 respectively. My research interests include computer vision and machine learning.
+I am an associate professor in School of Computer Science and Technology, Anhui University, China. My research interests include computer vision and machine learning.
  
 ### Papers  
 1.	Liu, Zhengyi, Song Shi, et al. "Salient object detection for RGB-D image by single stream recurrent convolution neural network." Neurocomputing 363 (2019): 46-57. [[paper]](https://pan.baidu.com/s/1q2ak7Jv8NNDyLZaBXr8w3w) 
