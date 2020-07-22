@@ -3,7 +3,7 @@
  
 ### Papers  
 1.	Liu, Zhengyi, Song Shi, et al. "Salient object detection for RGB-D image by single stream recurrent convolution neural network." Neurocomputing 363 (2019): 46-57. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219309403)
-2.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219312809)[[code]](https://github.com/liuzywen/)
+2.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231219312809)[[code]](https://github.com/liuzywen/Deep-layer-guided-network-for-salient-object-detection)
 3.	Liu, Zhengyi, Wei Zhang, and Peng Zhao. "A Cross-modal Adaptive Gated Fusion Generative Adversarial Network for RGB-D Salient Object Detection." Neurocomputing 387 (2020): 210-220.[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231220300904)[[Results]](https://github.com/liuzywen/)
 4.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.
 5.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.
