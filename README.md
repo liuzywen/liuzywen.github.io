@@ -11,17 +11,18 @@ I am a professor in School of Computer Science and Technology, Anhui University,
 4.	Liu, Zhengyi, Song Shi, et al. "Salient object detection for RGB-D image by single stream recurrent convolution neural network." Neurocomputing 363 (2019): 46-57. [[paper]](https://pan.baidu.com/s/1q2ak7Jv8NNDyLZaBXr8w3w) 
 [password：kv99][[Results]](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-image-by-single-stream-recurrent-convolution-neural-network)
 5.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.[[paper]](https://pan.baidu.com/s/1uZQUDx46qhZwYq_1HluDqQ)[password：dufx]
-6.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.[[paper]](https://pan.baidu.com/s/16wZQYxTJ7-Zp5y_s3qRU8A)[password:iesu] 
-7.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.[[paper]](https://pan.baidu.com/s/1QJYaLJg_9AFgUPQC_DuQEw)[password:71o9]
-8.	Liu, Zhengyi, et al. "Multi-level progressive parallel attention guided salient object detection for RGB-D images." The Visual Computer (2020): 1-12.[[paper]](https://pan.baidu.com/s/1pjc3ba4wlmO_6mpp7godCQ)[password:8woe][[Results]](https://github.com/liuzywen/Multi-level-progressive-parallel-attention-guided-salient-object-detection-for-RGB-D-images)
-9.	Liu, Zhengyi, and Feng Xie. "Co-saliency Detection for RGBD Images Based on Multi-constraint Superpixels Matching and Co-cellular Automata." Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, Cham, 2018.[[paper]](https://pan.baidu.com/s/1woBW4FtymmKk3XyxqXnurg)[password:2dc2]
-10.	刘政怡,徐天泽. "基于优化的极限学习机和深度层次的 RGB-D 显著检测." 电 子 与 信 息 学 报 41.9 (2019): 2224-2230.
-11.	刘政怡,段群涛,石松,赵鹏. "基于多模态特征融合监督的 RGB-D 图像显著性检测." 电子与信息学报 42.4 (2019): 997-1004.
-12.	李炜,李全龙,刘政怡. "基于加权的 K 近邻线性混合显著性目标检测." 电子与信息学报 41.10 (2019): 2442-2449.
-13.	刘政怡,黄子超,张志华. “显著中心先验和显著-深度概率矫正的RGB-D显著目标检测” 电子与信息学报 39.12 (2017): 2945-2952.
-14.	吴建国,邵婷,刘政怡."融合显著深度特征的 RGB-D 图像显著目标检测." 电子与信息学报 39.9 (2017): 2148-2154.
-15. Liu, Zhengyi, et al. "Salient object detection for RGB-D images by generative adversarial network." Multimedia Tools and Applications (2020): 1-23.[[paper]](https://pan.baidu.com/s/1Gx67VArf1U6fecixGEsi7A)[password:nn7j][[Results]](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-images-by-generative-adversarial-network)
-16.	Adaptive-Selection-Training-Model-for-Salient-Object-Detection[underview][[Results]](https://pan.baidu.com/s/1-FisUQOqYxaXo4xhQMDsNA)[password：1mfv]
+6.	Zhengyi Liu, Jiting Tang. "Salient object detection for RGB-D images by generative adversarial network." Multimedia Tools and Applications 79.35 (2020): 25403-25425.[[paper]](https://pan.baidu.com/s/16wZQYxTJ7-Zp5y_s3qRU8A)[password:iesu] 
+7.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.[[paper]](https://pan.baidu.com/s/16wZQYxTJ7-Zp5y_s3qRU8A)[password:iesu] 
+8.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.[[paper]](https://pan.baidu.com/s/1QJYaLJg_9AFgUPQC_DuQEw)[password:71o9]
+9.	Liu, Zhengyi, et al. "Multi-level progressive parallel attention guided salient object detection for RGB-D images." The Visual Computer (2020): 1-12.[[paper]](https://pan.baidu.com/s/1pjc3ba4wlmO_6mpp7godCQ)[password:8woe][[Results]](https://github.com/liuzywen/Multi-level-progressive-parallel-attention-guided-salient-object-detection-for-RGB-D-images)
+10.	Liu, Zhengyi, and Feng Xie. "Co-saliency Detection for RGBD Images Based on Multi-constraint Superpixels Matching and Co-cellular Automata." Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Springer, Cham, 2018.[[paper]](https://pan.baidu.com/s/1woBW4FtymmKk3XyxqXnurg)[password:2dc2]
+11.	刘政怡,徐天泽. "基于优化的极限学习机和深度层次的 RGB-D 显著检测." 电 子 与 信 息 学 报 41.9 (2019): 2224-2230.
+12.	刘政怡,段群涛,石松,赵鹏. "基于多模态特征融合监督的 RGB-D 图像显著性检测." 电子与信息学报 42.4 (2019): 997-1004.
+13.	李炜,李全龙,刘政怡. "基于加权的 K 近邻线性混合显著性目标检测." 电子与信息学报 41.10 (2019): 2442-2449.
+14.	刘政怡,黄子超,张志华. “显著中心先验和显著-深度概率矫正的RGB-D显著目标检测” 电子与信息学报 39.12 (2017): 2945-2952.
+15.	吴建国,邵婷,刘政怡."融合显著深度特征的 RGB-D 图像显著目标检测." 电子与信息学报 39.9 (2017): 2148-2154.
+16. Liu, Zhengyi, et al. "Salient object detection for RGB-D images by generative adversarial network." Multimedia Tools and Applications (2020): 1-23.[[paper]](https://pan.baidu.com/s/1Gx67VArf1U6fecixGEsi7A)[password:nn7j][[Results]](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-images-by-generative-adversarial-network)
+17.	Adaptive-Selection-Training-Model-for-Salient-Object-Detection[underview][[Results]](https://pan.baidu.com/s/1-FisUQOqYxaXo4xhQMDsNA)[password：1mfv]
 
 
 
