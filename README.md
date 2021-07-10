@@ -2,16 +2,17 @@
 I am a professor in School of Computer Science and Technology, Anhui University, China. My research interests include computer vision and deep learning.
  
 ### Papers  
-1.	Liu, Zhengyi, Kaixun Wang. "A cross-modal edge-guided salient object detection for RGB-D image." Neurocomputing 454 (2021): 168-177.[[paper]](https://pan.baidu.com/s/1Wbt8GnBwjjcrMOeld_Xgtg)[password：idso]
+1. Liu, Zhengyi, Yuan Wang. "TriTransNet:RGB-D salient object detection with a triplet transformer embedding network." ACM MM(2021)
+2.	Liu, Zhengyi, Kaixun Wang. "A cross-modal edge-guided salient object detection for RGB-D image." Neurocomputing 454 (2021): 168-177.[[paper]](https://pan.baidu.com/s/1Wbt8GnBwjjcrMOeld_Xgtg)[password：idso]
 [[code]](https://github.com/liuzywen/A-cross-modal-edge-guided-salient-object-detection-for-RGB-D-image)
-2.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://pan.baidu.com/s/1Fmhk30C_tLUm3fJJsPJHrw)[password：agsg]
+3.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://pan.baidu.com/s/1Fmhk30C_tLUm3fJJsPJHrw)[password：agsg]
 [[code]](https://github.com/liuzywen/Deep-layer-guided-network-for-salient-object-detection)
-3.	Liu, Zhengyi, Wei Zhang, and Peng Zhao. "A Cross-modal Adaptive Gated Fusion Generative Adversarial Network for RGB-D Salient Object Detection." Neurocomputing 387 (2020): 210-220.[[paper]](https://pan.baidu.com/s/1jLVw9NYREmMaVQCPpFVrXg)[password：bj3u]
+4.	Liu, Zhengyi, Wei Zhang, and Peng Zhao. "A Cross-modal Adaptive Gated Fusion Generative Adversarial Network for RGB-D Salient Object Detection." Neurocomputing 387 (2020): 210-220.[[paper]](https://pan.baidu.com/s/1jLVw9NYREmMaVQCPpFVrXg)[password：bj3u]
 [[Code]](https://github.com/liuzywen/A-Cross-modal-Adaptive-Gated-Fusion-Generative-Adversarial-Network-for-RGB-D-Salient-Object-Detectio)
-4.	Liu, Zhengyi, Song Shi, et al. "Salient object detection for RGB-D image by single stream recurrent convolution neural network." Neurocomputing 363 (2019): 46-57. [[paper]](https://pan.baidu.com/s/1q2ak7Jv8NNDyLZaBXr8w3w) 
+5.	Liu, Zhengyi, Song Shi, et al. "Salient object detection for RGB-D image by single stream recurrent convolution neural network." Neurocomputing 363 (2019): 46-57. [[paper]](https://pan.baidu.com/s/1q2ak7Jv8NNDyLZaBXr8w3w) 
 [password：kv99][[Results]](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-image-by-single-stream-recurrent-convolution-neural-network)
-5.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.[[paper]](https://pan.baidu.com/s/1uZQUDx46qhZwYq_1HluDqQ)[password：dufx]
-6.	Zhengyi Liu, Jiting Tang. "Salient object detection for RGB-D images by generative adversarial network." Multimedia Tools and Applications 79.35 (2020): 25403-25425.[[paper]](https://pan.baidu.com/s/1Q5s-xNvBc8Q7z4RXGkl-FA)[password:850n] [[code]](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-images-by-generative-adversarial-network)
+6.	Zhengyi Liu, Tengfei Song, and Feng Xie. "RGB-D image saliency detection from 3D perspective." Multimedia Tools and Applications 78.6 (2019): 6787-6804.[[paper]](https://pan.baidu.com/s/1uZQUDx46qhZwYq_1HluDqQ)[password：dufx]
+7.	Zhengyi Liu, Jiting Tang. "Salient object detection for RGB-D images by generative adversarial network." Multimedia Tools and Applications 79.35 (2020): 25403-25425.[[paper]](https://pan.baidu.com/s/1Q5s-xNvBc8Q7z4RXGkl-FA)[password:850n] [[code]](https://github.com/liuzywen/Salient-object-detection-for-RGB-D-images-by-generative-adversarial-network)
 8.	Zhengyi Liu, Jiting Tang, and Peng Zhao. "Salient object detection via hybrid upsampling and hybrid loss computing." The Visual Computer 36 (2020): 843–853.[[paper]](https://pan.baidu.com/s/16wZQYxTJ7-Zp5y_s3qRU8A)[password:iesu] 
 9.	Liu, Zhengyi, et al. "Robust salient object detection for RGB images." The Visual Computer (2019): 1-13.[[paper]](https://pan.baidu.com/s/1QJYaLJg_9AFgUPQC_DuQEw)[password:71o9]
 10.	Liu, Zhengyi, et al. "Multi-level progressive parallel attention guided salient object detection for RGB-D images." The Visual Computer (2020): 1-12.[[paper]](https://pan.baidu.com/s/1pjc3ba4wlmO_6mpp7godCQ)[password:8woe][[Results]](https://github.com/liuzywen/Multi-level-progressive-parallel-attention-guided-salient-object-detection-for-RGB-D-images)
