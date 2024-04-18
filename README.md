@@ -9,15 +9,16 @@ I am a professor in School of Computer Science and Technology, Anhui University,
 5.	Liu Z, Huang X, Zhang G, et al. Scribble-Supervised RGB-T Salient Object Detection [C]// IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2023: 2369-2374. (CCF B类会议)[[Code]](https://github.com/liuzywen/RGBTScribble-ICME2023)
 6.	Liu Z, Wei Wu, et al. RGB-T Multi-Modal Crowd Counting Based on Transformer. British Machine Vision Conference(BMVC)2022(CCF C类会议) 英国伦敦, 2022年11月21日-24日[[Code]](https://github.com/liuzywen/RGBTCC)
 7.	Liu Z, Chang B, Cheng F. An interactive filter-wrapper multi-objective evolutionary algorithm for feature selection[J]. Swarm and Evolutionary Computation, 2021: 100925. (中科院大类一区Top期刊)[[Code]](https://github.com/liuzywen/GR-MOEA)
-9.	Liu Z, Tan Y, Wu W, et al. Dilated high-resolution network driven RGB-T multi-modal crowd counting[J]. Signal Processing: Image Communication, 2023,112: 116915. (中科院大类二区)
+8.	Liu Z, Zhang Z, Tan Y, et al. Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer[C]//2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 140-146.  (CCF C类会议) Montreal, QC, Canada加拿大蒙特利尔(在线), 2022年8月21日-25日[[Code]](https://github.com/liuzywen/COD)
+9. Liu Z, Tan Y, Wu W, et al. Dilated high-resolution network driven RGB-T multi-modal crowd counting[J]. Signal Processing: Image Communication, 2023,112: 116915. (中科院大类二区)
 10.	Liu Z, Bin Zhu, et al. A Simple and Effective Method for RGB-T Salient Object Detection. IEEE International Conference on Ubiquitous Intelligence and Computing(UIC2022). IEEE,2022: 1266-1271 (CCF C类会议) 中国海口, 2022年12月15日-18日
-12.	Liu Z, Zhang Z, Tan Y, et al. Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer[C]//2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 140-146.  (CCF C类会议) Montreal, QC, Canada加拿大蒙特利尔(在线), 2022年8月21日-25日
-13.	Liu Z, Dong H, Global-Guided Cross-Reference Network for Co-Salient Object Detection. Machine Vision and Applications, 2022, 33(5): 1-13. (中科院大类四区)
-14.	Liu Z, Wang Y, et al. AGRFNet: Two-stage Cross-modal and Multi-level Attention Gated Recurrent Fusion Network for RGB-D Saliency Detection. Signal Processing: Image Communication, 2022, 104: 116674 (中科院大类二区)
-15.	Liu Z, Wang Y, et al. BGRDNet: RGB-D Salient Object Detection with a Bidirectional Gated Recurrent Decoding Network[J]. Multimedia Tools and Applications, 2022, 81: 25519–25539. (中科院大类四区)
-3.	Liu, Zhengyi, Kaixun Wang. "A cross-modal edge-guided salient object detection for RGB-D image." Neurocomputing 454 (2021): 168-177.[[paper]](https://pan.baidu.com/s/1Wbt8GnBwjjcrMOeld_Xgtg)[password：idso]
+11.	Liu Z, Dong H, Global-Guided Cross-Reference Network for Co-Salient Object Detection. Machine Vision and Applications, 2022, 33(5): 1-13. (中科院大类四区)
+12.	Liu Z, Wang Y, et al. AGRFNet: Two-stage Cross-modal and Multi-level Attention Gated Recurrent Fusion Network for RGB-D Saliency Detection. Signal Processing: Image Communication, 2022, 104: 116674 (中科院大类二区)
+13.	Liu Z, Wang Y, et al. BGRDNet: RGB-D Salient Object Detection with a Bidirectional Gated Recurrent Decoding Network[J]. Multimedia Tools and Applications, 2022, 81: 25519–25539. (中科院大类四区)
+14.	Liu, Zhengyi, Kaixun Wang. "A cross-modal edge-guided salient object detection for RGB-D image." Neurocomputing 454 (2021): 168-177.[[paper]](https://pan.baidu.com/s/1Wbt8GnBwjjcrMOeld_Xgtg)[password：idso]
 [[code]](https://github.com/liuzywen/A-cross-modal-edge-guided-salient-object-detection-for-RGB-D-image)
-4.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://pan.baidu.com/s/1Fmhk30C_tLUm3fJJsPJHrw)[password：agsg]
+
+Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://pan.baidu.com/s/1Fmhk30C_tLUm3fJJsPJHrw)[password：agsg]
 [[code]](https://github.com/liuzywen/Deep-layer-guided-network-for-salient-object-detection)
 5.	Liu, Zhengyi, Wei Zhang, and Peng Zhao. "A Cross-modal Adaptive Gated Fusion Generative Adversarial Network for RGB-D Salient Object Detection." Neurocomputing 387 (2020): 210-220.[[paper]](https://pan.baidu.com/s/1jLVw9NYREmMaVQCPpFVrXg)[password：bj3u]
 [[Code]](https://github.com/liuzywen/A-Cross-modal-Adaptive-Gated-Fusion-Generative-Adversarial-Network-for-RGB-D-Salient-Object-Detectio)
