@@ -2,7 +2,7 @@
 I am a professor in School of Computer Science and Technology, Anhui University, China. My research interests include computer vision and deep learning.
  
 ### Papers  
-1. Liu, Zhengyi, Yacheng Tan. SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection. IEEE Transactions on Circuits and Systems for Video Technology, 2021. [[Code]](https://github.com/liuzywen/SwinNet)[高被引论文]
+1. Liu Z, Tan Y, He Q, et al. SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(7): 4486-4497. (中科院大类一区Top期刊) （2022.07出版）[高被引论文] [[Code]](https://github.com/liuzywen/SwinNet)
 2. Liu, Zhengyi, Yuan Wang. "TriTransNet:RGB-D salient object detection with a triplet transformer embedding network." ACM MM(2021) (CCF A类会议) [[Code]](https://github.com/liuzywen/TriTransNet)
 3.	Liu Z, He Q, Wang L, et al. LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor[J]. IEEE Transactions on Circuits and Systems for Video Technology,  2023, 33(12):7764-7773. (中科院大类一区Top期刊) 2023.12出版[[Code]](https://github.com/liuzywen/LFTransNet)
 4. Bin Tang, Liu Z, et al. HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(2): 728-742. (中科院大类一区Top期刊) 2023.02出版[[Code]](https://github.com/liuzywen/HRTransNet)
