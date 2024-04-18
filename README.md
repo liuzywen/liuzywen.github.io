@@ -2,8 +2,18 @@
 I am a professor in School of Computer Science and Technology, Anhui University, China. My research interests include computer vision and deep learning.
  
 ### Papers  
-1. Liu, Zhengyi, Yacheng Tan. SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection. IEEE Transactions on Circuits and Systems for Video Technology, 2021. [[Code]](https://github.com/liuzywen/SwinNet)
+1. Liu, Zhengyi, Yacheng Tan. SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection. IEEE Transactions on Circuits and Systems for Video Technology, 2021. [[Code]](https://github.com/liuzywen/SwinNet)[高被引论文]
 2. Liu, Zhengyi, Yuan Wang. "TriTransNet:RGB-D salient object detection with a triplet transformer embedding network." ACM MM(2021)  [[Code]](https://github.com/liuzywen/TriTransNet)
+3.	Liu Z, He Q, Wang L, et al. LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor[J]. IEEE Transactions on Circuits and Systems for Video Technology,  2023, 33(12):7764-7773. (中科院大类一区Top期刊) 2023.12出版[[Code]](https://github.com/liuzywen/LFTransNet)
+4.	8.	（通讯）Bin Tang, Liu Z, et al. HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(2): 728-742. (中科院大类一区Top期刊) 2023.02出版[[Code]](https://github.com/liuzywen/HRTransNet)
+5.	Liu Z, Huang X, Zhang G, et al. Scribble-Supervised RGB-T Salient Object Detection [C]// IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2023: 2369-2374. (CCF B类会议)[[Code]](https://github.com/liuzywen/HRTransNet)
+11.	Liu Z, Wei Wu, et al. RGB-T Multi-Modal Crowd Counting Based on Transformer. British Machine Vision Conference(BMVC)2022(CCF C类会议) 英国伦敦, 2022年11月21日-24日
+9.	Liu Z, Tan Y, Wu W, et al. Dilated high-resolution network driven RGB-T multi-modal crowd counting[J]. Signal Processing: Image Communication, 2023,112: 116915. (中科院大类二区)
+10.	Liu Z, Bin Zhu, et al. A Simple and Effective Method for RGB-T Salient Object Detection. IEEE International Conference on Ubiquitous Intelligence and Computing(UIC2022). IEEE,2022: 1266-1271 (CCF C类会议) 中国海口, 2022年12月15日-18日
+12.	Liu Z, Zhang Z, Tan Y, et al. Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer[C]//2022 26th International Conference on Pattern Recognition (ICPR). IEEE, 2022: 140-146.  (CCF C类会议) Montreal, QC, Canada加拿大蒙特利尔(在线), 2022年8月21日-25日
+13.	Liu Z, Dong H, Global-Guided Cross-Reference Network for Co-Salient Object Detection. Machine Vision and Applications, 2022, 33(5): 1-13. (中科院大类四区)
+14.	Liu Z, Wang Y, et al. AGRFNet: Two-stage Cross-modal and Multi-level Attention Gated Recurrent Fusion Network for RGB-D Saliency Detection. Signal Processing: Image Communication, 2022, 104: 116674 (中科院大类二区)
+15.	Liu Z, Wang Y, et al. BGRDNet: RGB-D Salient Object Detection with a Bidirectional Gated Recurrent Decoding Network[J]. Multimedia Tools and Applications, 2022, 81: 25519–25539. (中科院大类四区)
 3.	Liu, Zhengyi, Kaixun Wang. "A cross-modal edge-guided salient object detection for RGB-D image." Neurocomputing 454 (2021): 168-177.[[paper]](https://pan.baidu.com/s/1Wbt8GnBwjjcrMOeld_Xgtg)[password：idso]
 [[code]](https://github.com/liuzywen/A-cross-modal-edge-guided-salient-object-detection-for-RGB-D-image)
 4.	Liu, Zhengyi, Quanlong Li, and Wei Li. "Deep layer guided network for salient object detection." Neurocomputing 372 (2020): 55-63.[[paper]](https://pan.baidu.com/s/1Fmhk30C_tLUm3fJJsPJHrw)[password：agsg]
