@@ -42,13 +42,14 @@ I am a professor in School of Computer Science and Technology, Anhui University,
 
 ###  Authorized Chinese patents
 
-1.	Zhengyi Liu,一种基于构图线的多尺度显著目标检测方法201510402217X, 20170915 , rank 1
-2.	Zhengyi Liu,一种显著目标的空间三维定位方法2015104266441, 20171128, rank 1
-3.	Zhengyi Liu,一种基于中心矩形构图先验的显著目标检测方法201610576594X, 20190222, rank 1
-4.	Zhengyi Liu, 一种RGB-D图像显著性计算方法2017101418884, 20200122 ,rank 1
-5.	Zhengyi Liu,基于显著中心先验的RGB‑D图像显著目标检测方法2017102413233, 20200304, rank 1
-6.	Zhengyi Liu, 一种图像协同显著区域的检测方法2017105914864,20200409,rank 2
+1.	一种RGB-D图像显著性计算方法，国家发明专利，2020年1月，（ZL2017101418884），第一发明人。
+2.	一种基于PSO的RGBD图的协同显著目标检测方法，国家发明专利，2021年7月，（ZL2018114033704），第一发明人。
+3.	一种基于单流深度网络的RGB-D显著目标检测方法，国家发明专利，2021年8月，（ZL2018114034020），第一发明人。
+4.	一种基于注意力机制的图像协同显著目标检测模型，国家发明专利，2022年11月，（ZL2020101092400），第一发明人。
+5.	一种具有自适应选择训练过程的图像显著目标检测方法，国家发明专利，2023年4月，（ZL201911261553.1），第一发明人。
+6.	半监督 RGB-D 图像镜面检测方法、存储介质及计算机设备，国家发明专利，2024年1月，（ZL202311498290.2），第一发明人。
 
 
-### Awards
-1.	Second Prize for Progress in Science and Technology of Anhui Province, "Realization and Application of Interactive Technology for Large Touch Screen”(2012-2-R2), rank 2.
+
+
+
